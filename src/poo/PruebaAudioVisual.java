@@ -10,8 +10,6 @@ public class PruebaAudioVisual {
         contenidos[0] = new Pelicula("Avatar", 125, "Accion", "20th Century Studios");
         contenidos[1] = new SerieDeTV("Game of Thrones", 60, "Fantasy", 8);
         contenidos[2] = new Documental("Cosmos", 45, "Science", "Astronomy");
-        
-        // ¡Aquí añades tus nuevas subclases!
         contenidos[3] = new VideoYouTube("Tutorial de Java POO", 15, "Educativo", "CodeMaster", 1250);
         contenidos[4] = new Cortometraje("El Viaje", 20, "Drama", "Festival de Cine Indie");
 
